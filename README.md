@@ -62,6 +62,6 @@ This project demonstrates an **end-to-end data pipeline** for processing Netflix
 | `Azure/`              | ADF pipeline + linked services JSON files         |
 | `Data/`               | Sample input data files                           |
 | `Databricks_notebooks/` | Databricks notebooks for transformation/analysis  |
-| `Docs`                | Architecture details                              |
+| `Docs/`                | Architecture details                              |
 | `parameter_file/`     | ADF parameter files for dynamic configuration     |
 | `pipelinescreenshots/`| Screenshots of pipelines, workflows, architecture |
